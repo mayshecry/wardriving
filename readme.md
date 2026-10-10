@@ -1,4 +1,4 @@
-# loner_
+# The Loner Wardriving Project.
 
 **A pocket-sized, local wireless survey console for Raspberry Pi.**
 
